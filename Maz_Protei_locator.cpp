@@ -14,7 +14,7 @@ int main(int argc, char** argv)
 	try {
 		Locator locator;
 	}
-	catch (const std::exception& error) {
+	catch (const std::runtime_error& error) {
 		std::cout << error.what() << std::endl;
 		return 1;
 	}

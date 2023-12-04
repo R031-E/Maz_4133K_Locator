@@ -25,3 +25,5 @@
 33	3843	7234045783585512	CMakeFiles/Maz_Protei_locator_test.dir/Maz_Protei_locator_test.cpp.obj	dce98e107e20cf58
 97	4536	7234045790492270	CMakeFiles/Maz_Protei_locator_test.dir/locator_service/Locator.cpp.obj	9520c9b0240e0139
 4537	5495	7234045799770797	locatortests.exe	cf27bf40ec92d037
+43	4976	7234084140248647	CMakeFiles/Maz_Protei_locator_test.dir/locator_service/Locator.cpp.obj	9520c9b0240e0139
+4977	5465	7234084144421209	locatortests.exe	cf27bf40ec92d037

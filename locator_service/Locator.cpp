@@ -14,7 +14,7 @@ Locator::Locator() {
 	try {
 		ConfigurationOnStart();
 	}
-	catch (const std::exception& error) {
+	catch (const std::runtime_error& error) {
 		SPDLOG_CRITICAL(error.what());
 		throw;
 	}
@@ -29,7 +29,7 @@ void Locator::SetLogLevel(std::string log_level) {
 bool Locator::ConfigurationOnStart() {
 	std::ifstream cfg("config.json");
 	if (!cfg.is_open()) {
-		throw std::exception("Config file wasn't found. Program terminated.");
+		throw std::runtime_error("Config file wasn't found. Program terminated.");
 	}
 	const json& Config = json::parse(cfg);
 	const json& zones = Config["zones"];

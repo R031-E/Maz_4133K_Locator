@@ -103,7 +103,7 @@ TEST(LocatorTest, ZoneTriggerActivation) {
     locator.AddSubscriber("+71234567890", 125, 125);
     locator.AddZoneTrigger("EnterZoneTrigger", "+71234567890", 1, ENTER_ZONE);
     locator.SetSubscriberLocation("+71234567890", 50, 50);
-    std::vector<ZoneTrigger*> &triggeredTriggers = locator.CheckZoneTriggers("+71234567890", 125, 125);
+    const std::vector<ZoneTrigger*> &triggeredTriggers = locator.CheckZoneTriggers("+71234567890", 125, 125);
     ASSERT_EQ(triggeredTriggers.size(), 1);
     EXPECT_EQ(triggeredTriggers[0]->getEvent(), ENTER_ZONE);
 }
@@ -115,7 +115,7 @@ TEST(LocatorTest, ProximityTriggerActivation) {
     locator.AddProximityTrigger("ProximityTrigger", "+71234567890", "+76543210987", 10.0);
     locator.SetSubscriberLocation("+71234567890", 10, 20);
     locator.SetSubscriberLocation("+76543210987", 15, 25);
-    std::vector<SubscribersProximityTrigger*> &triggeredTriggers = locator.CheckProximityTriggers("+71234567890", 100, 100);
+    const std::vector<SubscribersProximityTrigger*> &triggeredTriggers = locator.CheckProximityTriggers("+71234567890", 100, 100);
     ASSERT_EQ(triggeredTriggers.size(), 1);
     EXPECT_EQ(triggeredTriggers[0]->getDistance(), 10.0);
 }
