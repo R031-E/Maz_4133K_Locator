@@ -1,0 +1,27 @@
+# ninja log v5
+26	1644	7234045505813264	CMakeFiles/Maz_Protei_locator.dir/model/Zone.cpp.obj	f35bd789fbaa4862
+37	1662	7234045506149212	CMakeFiles/Maz_Protei_locator.dir/model/ZoneTrigger.cpp.obj	5bca349cee2a534c
+18	1688	7234045506257830	CMakeFiles/Maz_Protei_locator.dir/model/Subscriber.cpp.obj	663e0c7eccd84388
+46	1703	7234045506591501	CMakeFiles/Maz_Protei_locator.dir/model/SubscribersProximityTrigger.cpp.obj	3ae35f9716118c22
+97	2502	7234045514474798	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj	1fc4df6d063f7746
+105	2579	7234045515475583	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.obj	d5c14c5dd6f2756a
+115	2926	7234045518919000	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.obj	1b891e4221e459e3
+77	3067	7234045520363772	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj	f52108c4c5abb299
+87	3257	7234045522254301	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj	93b995c866f4c74e
+125	3618	7234045525805890	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/fmt.cpp.obj	e94e835e68e705af
+1648	3933	7234045529028240	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	3dc1f2c88ad4bfdd
+68	4859	7234045538260237	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj	ed31d730278b66e9
+4860	5030	7234045539765183	_deps/spdlog-build/spdlogd.lib	47d1936b7af52c42
+135	5664	7234045546261545	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	227cb89c4f2bd242
+5665	5791	7234045547492063	lib/gtest.lib	c92b7d2c8d680ce7
+5791	5868	7234045548374900	lib/gtest_main.lib	c308eaa12e7acf58
+9	7314	7234045562817957	CMakeFiles/Maz_Protei_locator.dir/Maz_Protei_locator.cpp.obj	69d74ec5b3279c41
+57	8826	7234045577824343	CMakeFiles/Maz_Protei_locator.dir/locator_service/Locator.cpp.obj	f49583ec70d05ff1
+8838	9679	7234045586093240	locator.exe	d59148ef280a18c3
+43	755	7234045752798586	CMakeFiles/Maz_Protei_locator_test.dir/model/Subscriber.cpp.obj	dfabb5f93fb7d041
+53	793	7234045753148244	CMakeFiles/Maz_Protei_locator_test.dir/model/Zone.cpp.obj	59daf0b739f6baf7
+87	796	7234045753257742	CMakeFiles/Maz_Protei_locator_test.dir/model/SubscribersProximityTrigger.cpp.obj	baf1646e864c3f72
+69	805	7234045753345154	CMakeFiles/Maz_Protei_locator_test.dir/model/ZoneTrigger.cpp.obj	6c5cb7257108edff
+33	3843	7234045783585512	CMakeFiles/Maz_Protei_locator_test.dir/Maz_Protei_locator_test.cpp.obj	dce98e107e20cf58
+97	4536	7234045790492270	CMakeFiles/Maz_Protei_locator_test.dir/locator_service/Locator.cpp.obj	9520c9b0240e0139
+4537	5495	7234045799770797	locatortests.exe	cf27bf40ec92d037

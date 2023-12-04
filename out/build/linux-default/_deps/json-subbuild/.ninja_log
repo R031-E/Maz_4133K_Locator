@@ -1,0 +1,21 @@
+# ninja log v5
+4	105	7234045306286595	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	313826c9f106fbfb
+4	105	7234045306286595	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	313826c9f106fbfb
+106	1399	7234045319220818	json-populate-prefix/src/json-populate-stamp/json-populate-download	a63a7d8bf366cc3a
+106	1399	7234045319220818	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	a63a7d8bf366cc3a
+1399	1502	7234045320262463	json-populate-prefix/src/json-populate-stamp/json-populate-update	793b0cdf72721771
+1399	1502	7234045320262463	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	793b0cdf72721771
+1503	1609	7234045321282349	json-populate-prefix/src/json-populate-stamp/json-populate-patch	6227b6b1ccf6676f
+1503	1609	7234045321282349	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	6227b6b1ccf6676f
+1609	1722	7234045322454304	json-populate-prefix/src/json-populate-stamp/json-populate-configure	c347bfc293b7d8a7
+1609	1722	7234045322454304	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	c347bfc293b7d8a7
+1722	1828	7234045323524701	json-populate-prefix/src/json-populate-stamp/json-populate-build	ed214c7f452baf62
+1722	1828	7234045323524701	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	ed214c7f452baf62
+1829	1931	7234045324473401	json-populate-prefix/src/json-populate-stamp/json-populate-install	2abfe2a21f843f13
+1829	1931	7234045324473401	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	2abfe2a21f843f13
+1931	2036	7234045325603560	json-populate-prefix/src/json-populate-stamp/json-populate-test	f5f07ee24a77eb65
+1931	2036	7234045325603560	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	f5f07ee24a77eb65
+2037	2181	7234045327050785	CMakeFiles/json-populate-complete	fc5e55fb078b3e9
+2037	2181	7234045327050785	json-populate-prefix/src/json-populate-stamp/json-populate-done	fc5e55fb078b3e9
+2037	2181	7234045327050785	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/CMakeFiles/json-populate-complete	fc5e55fb078b3e9
+2037	2181	7234045327050785	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	fc5e55fb078b3e9

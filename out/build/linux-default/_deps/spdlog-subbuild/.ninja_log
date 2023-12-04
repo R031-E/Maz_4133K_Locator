@@ -1,0 +1,21 @@
+# ninja log v5
+4	108	7234045333741587	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	5a7ee007349af68d
+4	108	7234045333741587	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	5a7ee007349af68d
+110	1542	7234045348044325	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	79237af34a0a425d
+110	1542	7234045348044325	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	79237af34a0a425d
+1543	1646	7234045349085012	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	22edb2450e005116
+1543	1646	7234045349085012	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	22edb2450e005116
+1647	1752	7234045350137650	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	af1631743dfabc89
+1647	1752	7234045350137650	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	af1631743dfabc89
+1752	1858	7234045351167448	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	b61c343c386bbec5
+1752	1858	7234045351167448	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	b61c343c386bbec5
+1858	1958	7234045352220712	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	af3181cbc247ca87
+1858	1958	7234045352220712	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	af3181cbc247ca87
+1958	2063	7234045353276606	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	ebbb737057bc515
+1958	2063	7234045353276606	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	ebbb737057bc515
+2063	2164	7234045354250260	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	34a7848ad0647c0e
+2063	2164	7234045354250260	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	34a7848ad0647c0e
+2164	2314	7234045355737950	CMakeFiles/spdlog-populate-complete	5099db08ff317f62
+2164	2314	7234045355737950	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	5099db08ff317f62
+2164	2314	7234045355737950	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	5099db08ff317f62
+2164	2314	7234045355737950	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	5099db08ff317f62

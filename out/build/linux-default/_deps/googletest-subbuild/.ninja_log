@@ -1,0 +1,21 @@
+# ninja log v5
+3	102	7234045374696711	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7119420c6228112e
+3	102	7234045374696711	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7119420c6228112e
+105	1702	7234045390693321	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	75bcbb81185c623f
+105	1702	7234045390693321	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	75bcbb81185c623f
+1702	1814	7234045391784507	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	26730cd97b3209fd
+1702	1814	7234045391784507	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	26730cd97b3209fd
+1814	1919	7234045392860307	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a8e0076db6a6a40e
+1814	1919	7234045392860307	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a8e0076db6a6a40e
+1919	2020	7234045393858733	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	52243adeb0408510
+1919	2020	7234045393858733	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	52243adeb0408510
+2020	2123	7234045394890973	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5186c8f55848118a
+2020	2123	7234045394890973	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5186c8f55848118a
+2123	2220	7234045395876963	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	64f2fa076b5d5512
+2123	2220	7234045395876963	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	64f2fa076b5d5512
+2220	2321	7234045396892956	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	93ef124b6a5fba53
+2220	2321	7234045396892956	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	93ef124b6a5fba53
+2321	2457	7234045398246437	CMakeFiles/googletest-populate-complete	ee04ee2a2438a0de
+2321	2457	7234045398246437	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ee04ee2a2438a0de
+2321	2457	7234045398246437	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	ee04ee2a2438a0de
+2321	2457	7234045398246437	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/linux-default/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ee04ee2a2438a0de
