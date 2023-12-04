@@ -1,0 +1,3 @@
+C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate.dir
+C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/spdlog-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/spdlog-subbuild/CMakeFiles/rebuild_cache.dir

@@ -34,8 +34,15 @@ add_executable (Maz_Protei_locator "Maz_Protei_locator.cpp" "Maz_Protei_locator.
 target_link_libraries(Maz_Protei_locator PRIVATE nlohmann_json::nlohmann_json spdlog::spdlog gtest_main)
 set_target_properties(Maz_Protei_locator PROPERTIES OUTPUT_NAME "locator")
 
+add_executable (Maz_Protei_locator_test "Maz_Protei_locator_test.cpp" "Maz_Protei_locator.h" "model/Subscriber.h" "model/Subscriber.cpp" "model/Zone.h" "model/Zone.cpp" "model/ZoneTrigger.h" "model/ZoneTrigger.cpp" "model/SubscribersProximityTrigger.h" "model/SubscribersProximityTrigger.cpp" "locator_service/Locator.h" "locator_service/Locator.cpp")
+target_link_libraries(Maz_Protei_locator_test PRIVATE nlohmann_json::nlohmann_json spdlog::spdlog gtest_main)
+set_target_properties(Maz_Protei_locator_test PROPERTIES OUTPUT_NAME "locatortests")
+
+  add_custom_target(copy_config
+      file(COPY ${CMAKE_SOURCE_DIR}/"config.json" DESTINATION ${CMAKE_BINARY_DIR})
+  )
+
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Maz_Protei_locator PROPERTY CXX_STANDARD 20)
 endif()
 
-# TODO: Добавьте тесты и целевые объекты, если это необходимо.

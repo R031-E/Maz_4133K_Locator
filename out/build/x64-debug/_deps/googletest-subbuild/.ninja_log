@@ -1,0 +1,21 @@
+# ninja log v5
+1942	2034	7231227295130243	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	10f0eb3eb6d71b90
+4	104	7231227275839742	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	61e93a924fb45cbd
+1649	1745	7231227292236158	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	11d224f4f43d9b32
+4	104	7231227275839742	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	61e93a924fb45cbd
+105	1649	7231227291267531	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a4aba48d06602da5
+1745	1841	7231227293173538	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	44d6bb2c1af02644
+105	1649	7231227291267531	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a4aba48d06602da5
+1649	1745	7231227292236158	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	11d224f4f43d9b32
+2127	2223	7231227297020237	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1daf3fb12b0cf6a0
+1745	1841	7231227293173538	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	44d6bb2c1af02644
+2223	2369	7231227298472630	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	13e4b9c49959653d
+1841	1942	7231227294185557	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f4d355a661d72677
+2223	2369	7231227298472630	CMakeFiles/googletest-populate-complete	13e4b9c49959653d
+1841	1942	7231227294185557	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f4d355a661d72677
+1942	2034	7231227295130243	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	10f0eb3eb6d71b90
+2034	2127	7231227296050816	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a85bc9e1e908f34b
+2034	2127	7231227296050816	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a85bc9e1e908f34b
+2127	2223	7231227297020237	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1daf3fb12b0cf6a0
+2223	2369	7231227298472630	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	13e4b9c49959653d
+2223	2369	7231227298472630	C:/Users/nikit/source/repos/Maz_4133K_Locator/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	13e4b9c49959653d

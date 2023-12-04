@@ -2,7 +2,7 @@
 #include <stdexcept>
 #include <regex>
 #include <cmath>
-#include <filesystem>
+#include <fstream>
 
 Locator::Locator() {
 	spdlog::set_pattern("[%Y-%m-%d %H:%M:%S.%e] [%^%l%$] [thread %t] %v");
@@ -11,15 +11,27 @@ Locator::Locator() {
 		auto file_logger = spdlog::basic_logger_mt("file_logger", logFileName);
 		spdlog::set_default_logger(file_logger);
 	}
+	try {
+		ConfigurationOnStart();
+	}
+	catch (const std::exception& error) {
+		SPDLOG_CRITICAL(error.what());
+		throw;
+	}
 }
 
 void Locator::SetLogLevel(std::string log_level) {
-	spdlog::level::level_enum log_level_enum = logLevelMap.count(log_level) ? logLevelMap.at(log_level) : spdlog::level::info;
+	spdlog::level::level_enum log_level_enum = logLevelMap.count(log_level) ? logLevelMap.at(log_level) : throw std::exception("Incorrect log level input.");
 	spdlog::set_level(log_level_enum);
 	SPDLOG_WARN("Log level has been changed to {}", log_level_enum);
 }
 
-bool Locator::ConfigurationOnStart(const json& Config) {
+bool Locator::ConfigurationOnStart() {
+	std::ifstream cfg("config.json");
+	if (!cfg.is_open()) {
+		throw std::exception("Config file wasn't found. Program terminated.");
+	}
+	const json& Config = json::parse(cfg);
 	const json& zones = Config["zones"];
 	for (const auto& zone : zones) {
 		unsigned int id = zone["id"];

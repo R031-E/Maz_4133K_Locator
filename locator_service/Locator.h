@@ -34,7 +34,7 @@ public:
 	std::vector<SubscribersProximityTrigger*> CheckProximityTriggers(std::string subscriber_id, int oldX, int oldY);
 	bool CheckIfInZone(Zone* zone, Subscriber* subscriber);
 	bool CheckIfInProximity(Subscriber* subscriber1, Subscriber* subscriber2, double distance);
-	bool ConfigurationOnStart(const json& Config);
+	bool ConfigurationOnStart();
 	void SetLogLevel(std::string log_level);
 
 
